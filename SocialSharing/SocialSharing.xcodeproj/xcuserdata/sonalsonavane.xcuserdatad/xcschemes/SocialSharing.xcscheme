@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC2A61A81AC096B900724A7A"
+               BlueprintIdentifier = "FC2A61DA1AC0995600724A7A"
                BuildableName = "SocialSharing.app"
                BlueprintName = "SocialSharing"
                ReferencedContainer = "container:SocialSharing.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC2A61C11AC096B900724A7A"
+               BlueprintIdentifier = "FC2A61F31AC0995600724A7A"
                BuildableName = "SocialSharingTests.xctest"
                BlueprintName = "SocialSharingTests"
                ReferencedContainer = "container:SocialSharing.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC2A61C11AC096B900724A7A"
+               BlueprintIdentifier = "FC2A61F31AC0995600724A7A"
                BuildableName = "SocialSharingTests.xctest"
                BlueprintName = "SocialSharingTests"
                ReferencedContainer = "container:SocialSharing.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FC2A61A81AC096B900724A7A"
+            BlueprintIdentifier = "FC2A61DA1AC0995600724A7A"
             BuildableName = "SocialSharing.app"
             BlueprintName = "SocialSharing"
             ReferencedContainer = "container:SocialSharing.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FC2A61A81AC096B900724A7A"
+            BlueprintIdentifier = "FC2A61DA1AC0995600724A7A"
             BuildableName = "SocialSharing.app"
             BlueprintName = "SocialSharing"
             ReferencedContainer = "container:SocialSharing.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FC2A61A81AC096B900724A7A"
+            BlueprintIdentifier = "FC2A61DA1AC0995600724A7A"
             BuildableName = "SocialSharing.app"
             BlueprintName = "SocialSharing"
             ReferencedContainer = "container:SocialSharing.xcodeproj">

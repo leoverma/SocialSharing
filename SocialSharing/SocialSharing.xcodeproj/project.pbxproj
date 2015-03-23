@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FC2A61AF1AC096B900724A7A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61AE1AC096B900724A7A /* main.m */; };
-		FC2A61B21AC096B900724A7A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61B11AC096B900724A7A /* AppDelegate.m */; };
-		FC2A61B51AC096B900724A7A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61B41AC096B900724A7A /* ViewController.m */; };
-		FC2A61B81AC096B900724A7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2A61B61AC096B900724A7A /* Main.storyboard */; };
-		FC2A61BA1AC096B900724A7A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC2A61B91AC096B900724A7A /* Images.xcassets */; };
-		FC2A61BD1AC096B900724A7A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC2A61BB1AC096B900724A7A /* LaunchScreen.xib */; };
-		FC2A61C91AC096B900724A7A /* SocialSharingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61C81AC096B900724A7A /* SocialSharingTests.m */; };
+		FC2A61E11AC0995600724A7A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61E01AC0995600724A7A /* main.m */; };
+		FC2A61E41AC0995600724A7A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61E31AC0995600724A7A /* AppDelegate.m */; };
+		FC2A61E71AC0995600724A7A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61E61AC0995600724A7A /* ViewController.m */; };
+		FC2A61EA1AC0995600724A7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2A61E81AC0995600724A7A /* Main.storyboard */; };
+		FC2A61EC1AC0995600724A7A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC2A61EB1AC0995600724A7A /* Images.xcassets */; };
+		FC2A61EF1AC0995600724A7A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC2A61ED1AC0995600724A7A /* LaunchScreen.xib */; };
+		FC2A61FB1AC0995600724A7A /* SocialSharingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2A61FA1AC0995600724A7A /* SocialSharingTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		FC2A61C31AC096B900724A7A /* PBXContainerItemProxy */ = {
+		FC2A61F51AC0995600724A7A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FC2A61A11AC096B900724A7A /* Project object */;
+			containerPortal = FC2A61D31AC0995600724A7A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FC2A61A81AC096B900724A7A;
+			remoteGlobalIDString = FC2A61DA1AC0995600724A7A;
 			remoteInfo = SocialSharing;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FC2A61A91AC096B900724A7A /* SocialSharing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialSharing.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FC2A61AD1AC096B900724A7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FC2A61AE1AC096B900724A7A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FC2A61B01AC096B900724A7A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		FC2A61B11AC096B900724A7A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FC2A61B31AC096B900724A7A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		FC2A61B41AC096B900724A7A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		FC2A61B71AC096B900724A7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FC2A61B91AC096B900724A7A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		FC2A61BC1AC096B900724A7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		FC2A61C21AC096B900724A7A /* SocialSharingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SocialSharingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		FC2A61C71AC096B900724A7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FC2A61C81AC096B900724A7A /* SocialSharingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialSharingTests.m; sourceTree = "<group>"; };
+		FC2A61DB1AC0995600724A7A /* SocialSharing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialSharing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC2A61DF1AC0995600724A7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC2A61E01AC0995600724A7A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FC2A61E21AC0995600724A7A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FC2A61E31AC0995600724A7A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FC2A61E51AC0995600724A7A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FC2A61E61AC0995600724A7A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FC2A61E91AC0995600724A7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FC2A61EB1AC0995600724A7A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FC2A61EE1AC0995600724A7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		FC2A61F41AC0995600724A7A /* SocialSharingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SocialSharingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC2A61F91AC0995600724A7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC2A61FA1AC0995600724A7A /* SocialSharingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SocialSharingTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FC2A61A61AC096B900724A7A /* Frameworks */ = {
+		FC2A61D81AC0995600724A7A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FC2A61BF1AC096B900724A7A /* Frameworks */ = {
+		FC2A61F11AC0995600724A7A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,61 +60,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FC2A61A01AC096B900724A7A = {
+		FC2A61D21AC0995600724A7A = {
 			isa = PBXGroup;
 			children = (
-				FC2A61AB1AC096B900724A7A /* SocialSharing */,
-				FC2A61C51AC096B900724A7A /* SocialSharingTests */,
-				FC2A61AA1AC096B900724A7A /* Products */,
+				FC2A61DD1AC0995600724A7A /* SocialSharing */,
+				FC2A61F71AC0995600724A7A /* SocialSharingTests */,
+				FC2A61DC1AC0995600724A7A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FC2A61AA1AC096B900724A7A /* Products */ = {
+		FC2A61DC1AC0995600724A7A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC2A61A91AC096B900724A7A /* SocialSharing.app */,
-				FC2A61C21AC096B900724A7A /* SocialSharingTests.xctest */,
+				FC2A61DB1AC0995600724A7A /* SocialSharing.app */,
+				FC2A61F41AC0995600724A7A /* SocialSharingTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FC2A61AB1AC096B900724A7A /* SocialSharing */ = {
+		FC2A61DD1AC0995600724A7A /* SocialSharing */ = {
 			isa = PBXGroup;
 			children = (
-				FC2A61B01AC096B900724A7A /* AppDelegate.h */,
-				FC2A61B11AC096B900724A7A /* AppDelegate.m */,
-				FC2A61B31AC096B900724A7A /* ViewController.h */,
-				FC2A61B41AC096B900724A7A /* ViewController.m */,
-				FC2A61B61AC096B900724A7A /* Main.storyboard */,
-				FC2A61B91AC096B900724A7A /* Images.xcassets */,
-				FC2A61BB1AC096B900724A7A /* LaunchScreen.xib */,
-				FC2A61AC1AC096B900724A7A /* Supporting Files */,
+				FC2A61E21AC0995600724A7A /* AppDelegate.h */,
+				FC2A61E31AC0995600724A7A /* AppDelegate.m */,
+				FC2A61E51AC0995600724A7A /* ViewController.h */,
+				FC2A61E61AC0995600724A7A /* ViewController.m */,
+				FC2A61E81AC0995600724A7A /* Main.storyboard */,
+				FC2A61EB1AC0995600724A7A /* Images.xcassets */,
+				FC2A61ED1AC0995600724A7A /* LaunchScreen.xib */,
+				FC2A61DE1AC0995600724A7A /* Supporting Files */,
 			);
 			path = SocialSharing;
 			sourceTree = "<group>";
 		};
-		FC2A61AC1AC096B900724A7A /* Supporting Files */ = {
+		FC2A61DE1AC0995600724A7A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FC2A61AD1AC096B900724A7A /* Info.plist */,
-				FC2A61AE1AC096B900724A7A /* main.m */,
+				FC2A61DF1AC0995600724A7A /* Info.plist */,
+				FC2A61E01AC0995600724A7A /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		FC2A61C51AC096B900724A7A /* SocialSharingTests */ = {
+		FC2A61F71AC0995600724A7A /* SocialSharingTests */ = {
 			isa = PBXGroup;
 			children = (
-				FC2A61C81AC096B900724A7A /* SocialSharingTests.m */,
-				FC2A61C61AC096B900724A7A /* Supporting Files */,
+				FC2A61FA1AC0995600724A7A /* SocialSharingTests.m */,
+				FC2A61F81AC0995600724A7A /* Supporting Files */,
 			);
 			path = SocialSharingTests;
 			sourceTree = "<group>";
 		};
-		FC2A61C61AC096B900724A7A /* Supporting Files */ = {
+		FC2A61F81AC0995600724A7A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FC2A61C71AC096B900724A7A /* Info.plist */,
+				FC2A61F91AC0995600724A7A /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -122,13 +122,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FC2A61A81AC096B900724A7A /* SocialSharing */ = {
+		FC2A61DA1AC0995600724A7A /* SocialSharing */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC2A61CC1AC096B900724A7A /* Build configuration list for PBXNativeTarget "SocialSharing" */;
+			buildConfigurationList = FC2A61FE1AC0995600724A7A /* Build configuration list for PBXNativeTarget "SocialSharing" */;
 			buildPhases = (
-				FC2A61A51AC096B900724A7A /* Sources */,
-				FC2A61A61AC096B900724A7A /* Frameworks */,
-				FC2A61A71AC096B900724A7A /* Resources */,
+				FC2A61D71AC0995600724A7A /* Sources */,
+				FC2A61D81AC0995600724A7A /* Frameworks */,
+				FC2A61D91AC0995600724A7A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -136,46 +136,46 @@
 			);
 			name = SocialSharing;
 			productName = SocialSharing;
-			productReference = FC2A61A91AC096B900724A7A /* SocialSharing.app */;
+			productReference = FC2A61DB1AC0995600724A7A /* SocialSharing.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FC2A61C11AC096B900724A7A /* SocialSharingTests */ = {
+		FC2A61F31AC0995600724A7A /* SocialSharingTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC2A61CF1AC096B900724A7A /* Build configuration list for PBXNativeTarget "SocialSharingTests" */;
+			buildConfigurationList = FC2A62011AC0995600724A7A /* Build configuration list for PBXNativeTarget "SocialSharingTests" */;
 			buildPhases = (
-				FC2A61BE1AC096B900724A7A /* Sources */,
-				FC2A61BF1AC096B900724A7A /* Frameworks */,
-				FC2A61C01AC096B900724A7A /* Resources */,
+				FC2A61F01AC0995600724A7A /* Sources */,
+				FC2A61F11AC0995600724A7A /* Frameworks */,
+				FC2A61F21AC0995600724A7A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FC2A61C41AC096B900724A7A /* PBXTargetDependency */,
+				FC2A61F61AC0995600724A7A /* PBXTargetDependency */,
 			);
 			name = SocialSharingTests;
 			productName = SocialSharingTests;
-			productReference = FC2A61C21AC096B900724A7A /* SocialSharingTests.xctest */;
+			productReference = FC2A61F41AC0995600724A7A /* SocialSharingTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FC2A61A11AC096B900724A7A /* Project object */ = {
+		FC2A61D31AC0995600724A7A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = manishverma;
 				TargetAttributes = {
-					FC2A61A81AC096B900724A7A = {
+					FC2A61DA1AC0995600724A7A = {
 						CreatedOnToolsVersion = 6.1;
 					};
-					FC2A61C11AC096B900724A7A = {
+					FC2A61F31AC0995600724A7A = {
 						CreatedOnToolsVersion = 6.1;
-						TestTargetID = FC2A61A81AC096B900724A7A;
+						TestTargetID = FC2A61DA1AC0995600724A7A;
 					};
 				};
 			};
-			buildConfigurationList = FC2A61A41AC096B900724A7A /* Build configuration list for PBXProject "SocialSharing" */;
+			buildConfigurationList = FC2A61D61AC0995600724A7A /* Build configuration list for PBXProject "SocialSharing" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -183,29 +183,29 @@
 				en,
 				Base,
 			);
-			mainGroup = FC2A61A01AC096B900724A7A;
-			productRefGroup = FC2A61AA1AC096B900724A7A /* Products */;
+			mainGroup = FC2A61D21AC0995600724A7A;
+			productRefGroup = FC2A61DC1AC0995600724A7A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FC2A61A81AC096B900724A7A /* SocialSharing */,
-				FC2A61C11AC096B900724A7A /* SocialSharingTests */,
+				FC2A61DA1AC0995600724A7A /* SocialSharing */,
+				FC2A61F31AC0995600724A7A /* SocialSharingTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FC2A61A71AC096B900724A7A /* Resources */ = {
+		FC2A61D91AC0995600724A7A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC2A61B81AC096B900724A7A /* Main.storyboard in Resources */,
-				FC2A61BD1AC096B900724A7A /* LaunchScreen.xib in Resources */,
-				FC2A61BA1AC096B900724A7A /* Images.xcassets in Resources */,
+				FC2A61EA1AC0995600724A7A /* Main.storyboard in Resources */,
+				FC2A61EF1AC0995600724A7A /* LaunchScreen.xib in Resources */,
+				FC2A61EC1AC0995600724A7A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FC2A61C01AC096B900724A7A /* Resources */ = {
+		FC2A61F21AC0995600724A7A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -215,47 +215,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FC2A61A51AC096B900724A7A /* Sources */ = {
+		FC2A61D71AC0995600724A7A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC2A61B51AC096B900724A7A /* ViewController.m in Sources */,
-				FC2A61B21AC096B900724A7A /* AppDelegate.m in Sources */,
-				FC2A61AF1AC096B900724A7A /* main.m in Sources */,
+				FC2A61E71AC0995600724A7A /* ViewController.m in Sources */,
+				FC2A61E41AC0995600724A7A /* AppDelegate.m in Sources */,
+				FC2A61E11AC0995600724A7A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FC2A61BE1AC096B900724A7A /* Sources */ = {
+		FC2A61F01AC0995600724A7A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC2A61C91AC096B900724A7A /* SocialSharingTests.m in Sources */,
+				FC2A61FB1AC0995600724A7A /* SocialSharingTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		FC2A61C41AC096B900724A7A /* PBXTargetDependency */ = {
+		FC2A61F61AC0995600724A7A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FC2A61A81AC096B900724A7A /* SocialSharing */;
-			targetProxy = FC2A61C31AC096B900724A7A /* PBXContainerItemProxy */;
+			target = FC2A61DA1AC0995600724A7A /* SocialSharing */;
+			targetProxy = FC2A61F51AC0995600724A7A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		FC2A61B61AC096B900724A7A /* Main.storyboard */ = {
+		FC2A61E81AC0995600724A7A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FC2A61B71AC096B900724A7A /* Base */,
+				FC2A61E91AC0995600724A7A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FC2A61BB1AC096B900724A7A /* LaunchScreen.xib */ = {
+		FC2A61ED1AC0995600724A7A /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FC2A61BC1AC096B900724A7A /* Base */,
+				FC2A61EE1AC0995600724A7A /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -263,7 +263,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FC2A61CA1AC096B900724A7A /* Debug */ = {
+		FC2A61FC1AC0995600724A7A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,7 +304,7 @@
 			};
 			name = Debug;
 		};
-		FC2A61CB1AC096B900724A7A /* Release */ = {
+		FC2A61FD1AC0995600724A7A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -339,7 +339,7 @@
 			};
 			name = Release;
 		};
-		FC2A61CD1AC096B900724A7A /* Debug */ = {
+		FC2A61FF1AC0995600724A7A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -349,7 +349,7 @@
 			};
 			name = Debug;
 		};
-		FC2A61CE1AC096B900724A7A /* Release */ = {
+		FC2A62001AC0995600724A7A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -359,7 +359,7 @@
 			};
 			name = Release;
 		};
-		FC2A61D01AC096B900724A7A /* Debug */ = {
+		FC2A62021AC0995600724A7A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -378,7 +378,7 @@
 			};
 			name = Debug;
 		};
-		FC2A61D11AC096B900724A7A /* Release */ = {
+		FC2A62031AC0995600724A7A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -396,32 +396,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC2A61A41AC096B900724A7A /* Build configuration list for PBXProject "SocialSharing" */ = {
+		FC2A61D61AC0995600724A7A /* Build configuration list for PBXProject "SocialSharing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC2A61CA1AC096B900724A7A /* Debug */,
-				FC2A61CB1AC096B900724A7A /* Release */,
+				FC2A61FC1AC0995600724A7A /* Debug */,
+				FC2A61FD1AC0995600724A7A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FC2A61CC1AC096B900724A7A /* Build configuration list for PBXNativeTarget "SocialSharing" */ = {
+		FC2A61FE1AC0995600724A7A /* Build configuration list for PBXNativeTarget "SocialSharing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC2A61CD1AC096B900724A7A /* Debug */,
-				FC2A61CE1AC096B900724A7A /* Release */,
+				FC2A61FF1AC0995600724A7A /* Debug */,
+				FC2A62001AC0995600724A7A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		FC2A61CF1AC096B900724A7A /* Build configuration list for PBXNativeTarget "SocialSharingTests" */ = {
+		FC2A62011AC0995600724A7A /* Build configuration list for PBXNativeTarget "SocialSharingTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FC2A61D01AC096B900724A7A /* Debug */,
-				FC2A61D11AC096B900724A7A /* Release */,
+				FC2A62021AC0995600724A7A /* Debug */,
+				FC2A62031AC0995600724A7A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FC2A61A11AC096B900724A7A /* Project object */;
+	rootObject = FC2A61D31AC0995600724A7A /* Project object */;
 }
