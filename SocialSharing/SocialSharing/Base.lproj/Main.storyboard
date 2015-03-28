@@ -166,6 +166,9 @@
                                 <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="49" y="379" width="282" height="41"/>
                                 </variation>
+                                <connections>
+                                    <outlet property="delegate" destination="vXZ-lx-hvc" id="2LL-Dr-UP7"/>
+                                </connections>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -201,14 +204,11 @@
                                 <exclude reference="5KB-to-UVz"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="clc-NV-6yP"/>
                                 <exclude reference="6sc-mz-fj9"/>
                                 <exclude reference="KeH-pX-pWu"/>
                                 <exclude reference="TvT-6O-NxO"/>
                                 <exclude reference="ruE-0H-4jY"/>
-                                <exclude reference="7gU-Ut-DEq"/>
-                                <exclude reference="cJg-7H-IL6"/>
-                                <exclude reference="jzY-O3-Faa"/>
-                                <exclude reference="yJ9-rJ-JKL"/>
                                 <exclude reference="5GQ-Zl-VU3"/>
                                 <exclude reference="6lT-cf-eaY"/>
                                 <exclude reference="G4v-H9-uho"/>
@@ -221,7 +221,10 @@
                                 <exclude reference="8fV-d0-b7f"/>
                                 <exclude reference="R32-Tk-TO8"/>
                                 <exclude reference="hI2-ZY-fY6"/>
-                                <exclude reference="clc-NV-6yP"/>
+                                <exclude reference="7gU-Ut-DEq"/>
+                                <exclude reference="cJg-7H-IL6"/>
+                                <exclude reference="jzY-O3-Faa"/>
+                                <exclude reference="yJ9-rJ-JKL"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -233,14 +236,11 @@
                                 <include reference="5KB-to-UVz"/>
                             </mask>
                             <mask key="constraints">
+                                <include reference="clc-NV-6yP"/>
                                 <include reference="6sc-mz-fj9"/>
                                 <include reference="KeH-pX-pWu"/>
                                 <include reference="TvT-6O-NxO"/>
                                 <include reference="ruE-0H-4jY"/>
-                                <include reference="7gU-Ut-DEq"/>
-                                <include reference="cJg-7H-IL6"/>
-                                <include reference="jzY-O3-Faa"/>
-                                <include reference="yJ9-rJ-JKL"/>
                                 <include reference="5GQ-Zl-VU3"/>
                                 <include reference="6lT-cf-eaY"/>
                                 <include reference="G4v-H9-uho"/>
@@ -253,14 +253,23 @@
                                 <include reference="8fV-d0-b7f"/>
                                 <include reference="R32-Tk-TO8"/>
                                 <include reference="hI2-ZY-fY6"/>
-                                <include reference="clc-NV-6yP"/>
+                                <include reference="7gU-Ut-DEq"/>
+                                <include reference="cJg-7H-IL6"/>
+                                <include reference="jzY-O3-Faa"/>
+                                <include reference="yJ9-rJ-JKL"/>
                             </mask>
                         </variation>
                     </view>
+                    <connections>
+                        <outlet property="lblEmail" destination="pyU-Li-fRr" id="18a-JT-3BU"/>
+                        <outlet property="lblLoginStatus" destination="6jo-8l-sCC" id="LRp-uS-yX9"/>
+                        <outlet property="lblUsername" destination="aSI-ks-hUy" id="9ed-Xr-4xM"/>
+                        <outlet property="profilePicture" destination="ulB-50-AAj" id="GOq-xd-uKa"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="319.5" y="336"/>
+            <point key="canvasLocation" x="-37.5" y="202"/>
         </scene>
     </scenes>
 </document>
