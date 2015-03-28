@@ -20,6 +20,25 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>66732526883-jgf263egphr2bi7537l6fn2as9ds2qnn.apps.googleusercontent.com</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb451778501534106</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>451778501534106</string>
+	<key>FacebookDisplayName</key>
+	<string>Social Sharing</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -30,24 +49,11 @@
 	<array>
 		<string>armv7</string>
 	</array>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>fb451778501534106</string>
-			</array>
-		</dict>
-	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>FacebookAppID</key>
-	<string>451778501534106</string>
-	<key>FacebookDisplayName</key>
-	<string>Social Sharing</string>
 </dict>
 </plist>
